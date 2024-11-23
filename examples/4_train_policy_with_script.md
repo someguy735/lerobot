@@ -1,6 +1,6 @@
 This tutorial will explain the training script, how to use it, and particularly the use of Hydra to configure everything needed for the training run.
 
-## The training script
+## The training script?
 
 LeRobot offers a training script at [`lerobot/scripts/train.py`](../../lerobot/scripts/train.py). At a high level it does the following:
 
