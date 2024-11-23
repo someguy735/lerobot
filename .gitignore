@@ -154,4 +154,4 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-/workspaces/lerobot/examples/4_train_policy_with_script.md
+examples/4_train_policy_with_script.md
